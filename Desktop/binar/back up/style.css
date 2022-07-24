@@ -1,0 +1,62 @@
+.bgmain {
+    background-image: url('assets/main-bg.jpg');
+    height: 100vh;
+    background-size: cover;
+    border-radius: 0px;
+    text-align: center;
+  }
+
+.navbar {
+    text-transform: uppercase;
+}
+
+.navbar-brand {
+    margin-left: 20px;
+}
+.collapse {
+    margin-left: 50px;
+}
+
+.nav-link {
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.row-style {
+    background-color: rgba(0, 0, 0, 0.75);
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.row-style2 {
+    padding-top: 200px;
+    color: white;
+}
+
+.row-style2 h1 {
+    font-size: 70px;
+}
+
+.row-style2 p {
+    font-size: 20px;
+    padding-top: 40px;
+    
+}
+
+.row-style2 button {
+    margin-top: 40px;
+    padding-left: 40px;
+    padding-right: 40px;
+    font-weight: 700;
+    
+}
+
+.row-style2 a {
+    color: white;
+}
+
+.row-style2 h5 {
+    padding-top: 100px;
+    margin-top: 90px;
+    color: white;
+}
